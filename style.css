@@ -28,6 +28,7 @@ button:hover {
 a {
     text-decoration: none;
     padding: 10px;
+    font-size: 16px;
 }
 footer {
     background-color: blue;
@@ -37,3 +38,4 @@ footer {
     font-size: 24px;
     border-radius: 10px;
 }
+
